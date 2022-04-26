@@ -1,0 +1,8 @@
+{
+  "name": "punch",
+  "version": "1.0.0",
+  "description": "Solidity Smart Contract Testing Framework",
+  "main": "index.js",
+  "author": "Luan Tran <codingluan@gmail.com>",
+  "license": "MIT"
+}
