@@ -6,6 +6,7 @@
   "author": "Luan Tran <codingluan@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "ganache-cli": "^6.12.2",
     "solc": "0.4.10"
   }
 }
